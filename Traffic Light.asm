@@ -1,4 +1,3 @@
-CODE:
 .INCLUDE "M32DEF.INC"
 //Main red = LED 0
 //Main amber = LED 1
